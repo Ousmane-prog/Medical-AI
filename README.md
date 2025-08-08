@@ -25,3 +25,6 @@ This project implements a deep learning pipeline using TensorFlow to detect **ca
 - TensorFlow / Keras
 - NumPy, Pandas
 - Matplotlib, PIL
+  
+## Preview
+<img width="1431" height="735" alt="image" src="https://github.com/user-attachments/assets/b927f045-bc4f-4746-b80d-4fef85aa6d16" />
